@@ -1,6 +1,6 @@
 proxies:
 - name: app-stg.gopay.co.id
-  type: trojan
+  type: vmess
   server: app-stg.gopay.co.id
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -15,7 +15,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: 104.18.62.203
-  type: trojan
+  type: vmess
   server: 104.18.62.203
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -30,7 +30,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: 104.18.40.232
-  type: trojan
+  type: vmess
   server: 104.18.40.232
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -45,7 +45,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: 172.64.147.24
-  type: trojan
+  type: vmess
   server: 172.64.147.24
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -60,7 +60,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: onelink.seabank.co.id
-  type: trojan
+  type: vmess
   server: onelink.seabank.co.id
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -75,7 +75,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: cf.shopee.co.id
-  type: trojan
+  type: vmess
   server: cf.shopee.co.id
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -90,7 +90,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: 104.18.56.56
-  type: trojan
+  type: vmess
   server: 104.18.56.56
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -105,7 +105,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: cf.shopee.co.id.cloudscdn.net
-  type: trojan
+  type: vmess
   server: cf.shopee.co.id.cloudscdn.net
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -120,7 +120,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: cf.shopee.co.id.sea-sw.swiftserve.com
-  type: trojan
+  type: vmess
   server: cf.shopee.co.id.sea-sw.swiftserve.com
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -135,7 +135,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: account.pmang.game.naver.com
-  type: trojan
+  type: vmess
   server: account.pmang.game.naver.com
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -150,7 +150,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: media.fcgk35-1.fna.whatsapp.net
-  type: trojan
+  type: vmess
   server: media.fcgk35-1.fna.whatsapp.net
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -165,7 +165,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: w5.web.whatsapp.com
-  type: trojan
+  type: vmess
   server: w5.web.whatsapp.com
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -180,7 +180,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: v.whatsapp.net
-  type: trojan
+  type: vmess
   server: v.whatsapp.net
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -195,7 +195,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: tellafriendreceiver.whatsapp.net
-  type: trojan
+  type: vmess
   server: tellafriendreceiver.whatsapp.net
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -210,7 +210,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: sogood.linefriends.com
-  type: trojan
+  type: vmess
   server: sogood.linefriends.com
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -225,7 +225,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: Driver.gojek.link
-  type: trojan
+  type: vmess
   server: Driver.gojek.link
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -240,7 +240,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: asphalt.gojek.com
-  type: trojan
+  type: vmess
   server: asphalt.gojek.com
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -255,7 +255,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: static.line-scdn.net
-  type: trojan
+  type: vmess
   server: static.line-scdn.net
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -270,7 +270,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: ava.game.naver.com
-  type: trojan
+  type: vmess
   server: ava.game.naver.com
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -285,7 +285,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: df.game.naver.com
-  type: trojan
+  type: vmess
   server: df.game.naver.com
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -300,7 +300,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: care.pmang.game.naver.com
-  type: trojan
+  type: vmess
   server: care.pmang.game.naver.com
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -315,7 +315,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: blog.clova.line.me
-  type: trojan
+  type: vmess
   server: blog.clova.line.me
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -330,7 +330,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: cs-ocr.clova.line.me
-  type: trojan
+  type: vmess
   server: cs-ocr.clova.line.me
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -345,7 +345,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: lb.clova.line.me
-  type: trojan
+  type: vmess
   server: lb.clova.line.me
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
@@ -360,7 +360,7 @@ proxies:
     headers:
       Host: sg3.socifiles.com
 - name: cs-cb.clova.line.me
-  type: trojan
+  type: vmess
   server: cs-cb.clova.line.me
   port: 80
   uuid: fb735080-280b-11ef-83e6-1239d0255272
