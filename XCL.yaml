@@ -1,0 +1,276 @@
+proxies:
+- name: app-stg.gopay.co.id
+  type: trojan
+  server: app-stg.gopay.co.id
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.18.62.203
+  type: trojan
+  server: 104.18.62.203
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.18.40.232
+  type: trojan
+  server: 104.18.40.232
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 172.64.147.24
+  type: trojan
+  server: 172.64.147.24
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: onelink.seabank.co.id
+  type: trojan
+  server: onelink.seabank.co.id
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: cf.shopee.co.id
+  type: trojan
+  server: cf.shopee.co.id
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.18.56.56
+  type: trojan
+  server: 104.18.56.56
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: cf.shopee.co.id.cloudscdn.net
+  type: trojan
+  server: cf.shopee.co.id.cloudscdn.net
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: cf.shopee.co.id.sea-sw.swiftserve.com
+  type: trojan
+  server: cf.shopee.co.id.sea-sw.swiftserve.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: account.pmang.game.naver.com
+  type: trojan
+  server: account.pmang.game.naver.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: media.fcgk35-1.fna.whatsapp.net
+  type: trojan
+  server: media.fcgk35-1.fna.whatsapp.net
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: w5.web.whatsapp.com
+  type: trojan
+  server: w5.web.whatsapp.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: v.whatsapp.net
+  type: trojan
+  server: v.whatsapp.net
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: tellafriendreceiver.whatsapp.net
+  type: trojan
+  server: tellafriendreceiver.whatsapp.net
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: sogood.linefriends.com
+  type: trojan
+  server: sogood.linefriends.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: Driver.gojek.link
+  type: trojan
+  server: Driver.gojek.link
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: asphalt.gojek.com
+  type: trojan
+  server: asphalt.gojek.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: static.line-scdn.net
+  type: trojan
+  server: static.line-scdn.net
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: ava.game.naver.com
+  type: trojan
+  server: ava.game.naver.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: df.game.naver.com
+  type: trojan
+  server: df.game.naver.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: care.pmang.game.naver.com
+  type: trojan
+  server: care.pmang.game.naver.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: blog.clova.line.me
+  type: trojan
+  server: blog.clova.line.me
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: cs-ocr.clova.line.me
+  type: trojan
+  server: cs-ocr.clova.line.me
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: lb.clova.line.me
+  type: trojan
+  server: lb.clova.line.me
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: cs-cb.clova.line.me
+  type: trojan
+  server: cs-cb.clova.line.me
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
