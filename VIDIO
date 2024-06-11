@@ -1,0 +1,188 @@
+proxies:
+- name: 104.16.13.120
+  type: trojan
+  server: 104.16.13.120
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 172.67.5.14
+  type: trojan
+  server: 172.67.5.14
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.22.5.240
+  type: trojan
+  server: 104.22.5.240
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.22.4.240
+  type: trojan
+  server: 104.22.4.240
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.16.15.120
+  type: trojan
+  server: 104.16.15.120
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.16.14.120
+  type: trojan
+  server: 104.16.14.120
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.16.16.120
+  type: trojan
+  server: 104.16.16.120
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: 104.16.17.120
+  type: trojan
+  server: 104.16.17.120
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: quiz.int.vidio.com
+  type: trojan
+  server: quiz.int.vidio.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: quiz.vidio.com
+  type: trojan
+  server: quiz.vidio.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: img.email2.vidio.com
+  type: trojan
+  server: img.email2.vidio.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: img.email3.vidio.com
+  type: trojan
+  server: img.email3.vidio.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: img.email1.vidio.com
+  type: trojan
+  server: img.email1.vidio.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: quiz.staging.vidio.com
+  type: trojan
+  server: quiz.staging.vidio.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: nontontv.vidio.com
+  type: trojan
+  server: nontontv.vidio.com
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: wong.cirebon.store
+  type: trojan
+  server: wong.cirebon.store
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
+- name: vidio.cirebon.store
+  type: trojan
+  server: vidio.cirebon.store
+  port: 443
+  password: rCyxYfqc33WZstYorG2HKw
+  udp: true
+  sni: biznet-2.vpnpremium.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-service
