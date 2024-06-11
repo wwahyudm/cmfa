@@ -76,7 +76,7 @@ proxy-groups:
 rules:
  - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
  - RULE-SET,Direct,BUNDLING
- - MATCH,Best Ping
+ - MATCH,VIDIO
 rule-providers:
   Direct:
     type: http
